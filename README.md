@@ -1,3 +1,3 @@
 # Encriptador
 
-[Livedemo](https://cecifernandez.github.io/encriptador-Alura-challenge/)
+[Live demo](https://cecifernandez.github.io/encriptador-Alura-challenge/)
